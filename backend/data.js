@@ -9,6 +9,7 @@ export default {
       brand: "Nike",
       rating: 4.5,
       numReviews: 10,
+      countInStock: 0,
     },
     {
       id: 2,
@@ -19,7 +20,9 @@ export default {
       brand: "Nike",
       rating: 4.5,
       numReviews: 7,
+      countInStock: 6,
     },
+
     {
       id: 3,
       name: "Best Pants",
@@ -29,7 +32,9 @@ export default {
       brand: "Nike",
       rating: 4.5,
       numReviews: 6,
+      countInStock: 6,
     },
+
     {
       id: 4,
       name: "Best Pants",
@@ -39,6 +44,7 @@ export default {
       brand: "Nike",
       rating: 4.5,
       numReviews: 6,
+      countInStock: 6,
     },
   ],
 };
