@@ -23,9 +23,9 @@ function ProductScreen(props) {
         <Link to="/">Back to result</Link>
       </div>
       {loading ? (
-        <div>loading...</div>
+        <div>Loading...</div>
       ) : error ? (
-        <div>{error}</div>
+        <div>{error} mejehdgdhh</div>
       ) : (
         <div className="details">
           <div className="details-image">
